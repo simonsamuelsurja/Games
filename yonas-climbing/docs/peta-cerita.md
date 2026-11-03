@@ -1,56 +1,39 @@
-# Peta cerita awal
+# Peta cerita
 
-Ini rangkuman visual untuk melanjutkan penulisan, bukan seluruh percabangan final. Garis putus-putus menunjukkan hubungan atau akibat yang masih perlu digarap. Jalur cedera tidak berarti setiap pemain wajib mengalaminya; penempatannya belum dikunci.
+Peta merangkum kesepakatan, bukan semua percabangan final. Garis putus-putus menunjukkan peluang bersyarat atau detail yang belum dirinci.
+
+[FigJam — Perjalanan Yonas](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI/Perjalanan-Yonas)
+
+Bagian papan: [panduan rutin](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=9-148), [12 event utama](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=12-148), [bulan pertama](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=12-188), [influencer](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=12-208).
+
+Catatan sinkronisasi: Git ini memuat keputusan setelah edit FigJam terakhir. Papan masih perlu diselaraskan untuk istilah Stamina, angka indikator, Kemampuan tanpa batas, syarat Latihan 2/3 kali bulan pertama, dan izin rekam sekaligus posting.
 
 ```mermaid
 flowchart TD
-    awal["Yonas sudah bekerja"] --> coba["Mencoba climbing bersama teman"]
-    coba --> langganan["Langsung berlangganan bulanan"]
-    langganan --> mimpi["Jatuh cinta dan ingin profesional"]
-    mimpi --> waktu{"Membagi waktu"}
-
-    waktu -->|"Latihan"| jalur["Jalur V1–V15 berganti bulanan"]
-    waktu -->|"Pekerjaan"| kerja["Karier dan penghasilan"]
-    waktu -->|"Membuat konten"| konten["Membagikan perjalanan climbing"]
-
-    jalur --> tantangan["Kesulitan jalur dan tantangan kecepatan"]
-    tantangan --> lelah{"Lelah setelah lembur atau latihan"}
-    lelah -->|"Rest day"| istirahat["Istirahat dan memulihkan tenaga"]
-    lelah -->|"Tetap latihan"| memaksa["Kelelahan dapat menumpuk"]
-    memaksa -.-> cedera["Cedera: jeda climbing sementara"]
-    cedera --> pulih["Masa pemulihan"]
-
-    kerja -.-> luarNegeri["Kesempatan kerja ke luar negeri"]
-    luarNegeri -.-> terbuka["Keputusan dan akibat belum ditulis"]
-
-    istirahat --> perjalanan["Perjalanan menuju tahun kedua"]
-    pulih --> perjalanan
-    kerja --> perjalanan
-    konten --> perjalanan
-    perjalanan --> arah{"Ke mana Yonas melangkah?"}
-
-    arah -->|"Mengejar kompetisi"| persiapan["Persiapan pertandingan"]
-    persiapan --> telepon{"Teman menawarkan proyek"}
-    telepon -->|"Tetap latihan"| kompetisi["Hari kompetisi"]
-    telepon -->|"Modal 50 juta; return 100 juta per bulan"| menteri(["RAHASIA: Pindah Jalur — Menjadi menteri"])
-
-    kompetisi --> podium(["Juara 1 / 2 / 3"])
-    kompetisi --> tanpaPodium(["Tidak mendapat podium"])
-    arah -.-> reputasi["Mengembangkan konten dan reputasi"]
-    reputasi -.-> ambassador(["Brand ambassador"])
-    reputasi -.-> affiliator(["Affiliator climbing"])
-    arah -.-> gagal(["Gagal sama sekali — makna belum ditentukan"])
-
-    classDef choice fill:#fff0c2,stroke:#bd8c22
-    classDef result fill:#d9f3de,stroke:#599365
-    classDef secret fill:#eadcff,stroke:#9566c0
-    classDef unresolved fill:#eeeeee,stroke:#999999
-    class waktu,lelah,arah,telepon choice
-    class podium,tanpaPodium,ambassador,affiliator result
-    class menteri secret
-    class terbuka,gagal unresolved
+    intro["Intro tanpa pilihan: manager full-time mencoba climbing dan langsung berlangganan"] --> year["1 tahun: 12 bulan, masing-masing 4 minggu"]
+    year --> context["Event utama dan petunjuk singkat keadaan"]
+    context --> choice{"Pilihan utama minggu ini"}
+    choice -->|"Kerja"| work["Uang +15; Stamina -15"]
+    choice -->|"Latihan"| train["Uang -10; Stamina -20; Kemampuan +3"]
+    choice -->|"Istirahat"| rest["Stamina +35"]
+    work --> after["Akibat dan kesempatan mini event"]
+    train --> after
+    rest --> after
+    after --> next["Minggu berikutnya, hingga 48 pilihan utama"]
+    train -.->|"Bulan 1: Latihan kedua"| video{"Izinkan rekam dan posting?"}
+    video -->|"Izinkan"| post["Video tayang dan menandai Yonas"]
+    video -->|"Tolak"| nopost["Video tidak dibuat lewat tawaran ini"]
+    post -.-> audience["Mini event lanjutan dan reputasi"]
+    audience -.-> influencer(["Influencer"])
+    train -.->|"Bulan 1: Latihan minimal 3 kali"| route["Event jalur pertama berhasil"]
+    train -.->|"Terus memaksa saat kondisi buruk"| injury["Risiko cedera; pemulihan jika terjadi"]
+    after -.-> phone{"Mini event telepon proyek 50 juta"}
+    phone -->|"Menerima"| minister(["Pindah Jalur: menjadi menteri"])
+    phone -->|"Menolak"| next
+    next --> final["Kompetisi utama dan epilog"]
+    final --> medal(["Juara 1 / 2 / 3 atau tanpa podium"])
+    audience -.-> brand(["Brand ambassador / affiliator"])
+    final -.-> fail(["Gagal sama sekali: syarat terbuka"])
 ```
 
-## Catatan FigJam
-
-Pengguna meminta papan visual di FigJam melalui Figma. Pemanggilan pembuatan diagram sebelumnya meminta pemilihan tim/organisasi dan belum menghasilkan tautan papan yang terkonfirmasi. Tidak ada URL FigJam yang sudah disimpan. Diagram Mermaid ini menyimpan isi peta agar tidak bergantung pada langkah tersebut.
+Semua indikator tersembunyi. Uang, Stamina, Reputasi 0–100; Kemampuan mulai 0 tanpa batas maksimal. Angka kegiatan adalah nilai dasar awal yang perlu dicoba, bukan jaminan hasil pertandingan.

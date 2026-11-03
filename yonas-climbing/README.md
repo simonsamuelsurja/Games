@@ -1,22 +1,29 @@
 # Yonas — Perjalanan Seorang Pemanjat
 
-Dokumen pengembangan cerita game web berpilihan tentang Yonas, seorang pekerja yang jatuh cinta pada wall climbing dan ingin menjadi atlet profesional.
+Game web berpilihan tentang Yonas, seorang manager full-time yang mencoba climbing, jatuh cinta pada olahraga tersebut, lalu ingin menjadi atlet profesional.
 
-Status: brainstorming cerita. Belum ada game atau kode aplikasi. Catatan ini menyimpan hasil percakapan agar bisa dilanjutkan di perangkat lain.
+Status: brainstorming; belum ada aplikasi. Catatan ini menyimpan kesepakatan untuk dilanjutkan di perangkat lain.
 
 ## Mulai membaca
 
-- [Konsep dan cerita](docs/cerita.md): tokoh, perjalanan, tantangan, dan ending.
-- [Peta cerita](docs/peta-cerita.md): diagram alur awal dalam Mermaid, dapat dilihat di GitHub.
-- [Catatan kelanjutan](docs/lanjutkan.md): keputusan yang sudah disepakati, usulan yang belum dikunci, dan pekerjaan berikutnya.
+- [Cerita dan ending](docs/cerita.md).
+- [Aturan permainan dan indikator](docs/permainan.md).
+- [12 event utama](docs/event-utama.md).
+- [Bulan pertama dan syarat mini event](docs/bulan-01.md).
+- [Peta cerita dan tautan FigJam](docs/peta-cerita.md).
+- [Catatan kelanjutan](docs/lanjutkan.md).
 
-## Arahan utama
+## Dasar yang disepakati
 
-- Ringan secara memori, berbasis web, dengan pilihan yang memengaruhi perjalanan dan ending.
-- Durasi bermain sasaran 30–60 menit.
-- Rentang cerita sementara dua tahun, masih dapat berubah.
-- Visual panel komik terinspirasi cutscene Zenless Zone Zero, bubble dialog pada karakter, transisi fade in/out, dan interaksi sederhana.
-- Dahulukan penyusunan cerita sebelum implementasi.
-- Saat berdiskusi atau menulis cerita, gunakan gaya storyteller dan bahasa sehari-hari. Hindari istilah teknis kecuali diminta.
+- Satu tahun: 12 bulan × 4 minggu = 48 pilihan utama; intro di luar hitungan.
+- Tiga pilihan rutin dengan kata-kata tetap: Kerja, Latihan, Istirahat.
+- Setiap bulan memiliki event utama dan sekitar minimal satu kesempatan mini event, dengan kemunculan bersyarat.
+- Mini event bisa meminta keputusan tambahan atau langsung terjadi pada minggu yang sama.
+- Uang, Stamina, Kemampuan, dan Reputasi tersembunyi. Kemampuan tidak memiliki batas maksimal.
+- Sasaran durasi bermain 30–60 menit; ringan secara memori, berbasis web.
+- Visual panel komik terinspirasi cutscene Zenless Zone Zero, bubble dialog, fade in/out, dan interaksi sederhana.
+- Dahulukan cerita. Gunakan gaya storyteller, jawaban ringkas, dan bahasa sehari-hari saat brainstorming.
 
-Semua materi masih dapat direvisi. Bedakan keputusan pengguna dengan usulan penulis yang belum disetujui.
+[FigJam](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI/Perjalanan-Yonas)
+
+Dokumen Git ini mencakup keputusan setelah pembaruan FigJam terakhir, termasuk angka indikator, izin merekam sekaligus posting, dan syarat latihan bulan pertama.

@@ -1,93 +1,41 @@
-# Konsep dan cerita Yonas
+# Cerita dan ending
 
-## Yonas
+## Yonas dan intro
 
-Yonas sudah bekerja sejak awal cerita. Ia datang ke venue wall climbing untuk umum bersama teman, awalnya hanya mencoba mengikuti tren. Ia menikmati tantangannya, ketagihan mencoba lagi, dan langsung mendaftar langganan bulanan sebelum pulang.
+Yonas sudah bekerja sebagai manager full-time sejak awal. Ia mencoba climbing di venue umum bersama teman karena mengikuti tren. Ia menyukainya, langsung berlangganan bulanan, lalu ingin profesional karena cinta olahraga ini.
 
-Jangan memakai adegan Yonas bertanya berapa harga langganan: pengguna meminta bagian itu dihapus. Yonas langsung berlangganan.
+Intro tanpa pilihan, di luar 48 minggu. Tidak perlu dialog menanyakan harga langganan. Pekerjaan bukan pekerjaan sampingan atau tawaran tambahan setiap minggu: dalam aturan game, setiap memilih Kerja ia mendapatkan uang.
 
-Keinginannya menjadi atlet profesional tumbuh karena cinta pada olahraga ini. Pekerjaannya telah ada sebelum ia mengenal climbing; benturan pekerjaan dan latihan menjadi bagian perjalanan, bukan cerita mencari pekerjaan pertama.
+## Perjalanan satu tahun
 
-## Rentang perjalanan
+Rutinitas kerja, latihan, dan istirahat membentuk keadaan Yonas. Venue memiliki jalur V1–V15 dalam konsep awal pengguna dan mengganti jalur setiap bulan. Ada tantangan kesulitan jalur dan adu cepat. Urutan tingkat dan aturan pertandingan belum dirinci.
 
-Sementara dua tahun, dengan durasi bermain rata-rata 30–60 menit. Dua tahun ini tidak harus dimainkan hari demi hari.
+Dua belas event utama memberi cerita bulanan. Kompetisi kecil venue ada di bulan ketiga; kompetisi utama di akhir tahun. Tidak setiap event harus mengisi empat minggu. Akibat event dapat muncul lagi kemudian.
 
-## Garis besar yang sudah cocok bagi pengguna
+Cedera adalah konsekuensi yang mungkin tumbuh dari terlalu banyak latihan dan mengabaikan kondisi tubuh. Bukan kejadian wajib pada bulan keenam. Jika terjadi, cerita pemulihan mengubah kegiatan dan kesempatan yang sedang dihadapi. Aturan risiko belum ditentukan.
 
-### Awal — Sekali lagi
+Kesempatan karier luar negeri, pertemanan, reputasi, dan kerja sama merek membuka arah hidup lain. Konten tumbuh dari mini event saat latihan, bukan pilihan rutin keempat.
 
-Yonas mencoba climbing bersama temannya. Ia berkali-kali gagal di jalur pemula, tetapi selalu ingin mencoba lagi. Ketika akhirnya berhasil dan temannya sudah bersiap pulang, Yonas langsung mendaftar langganan bulanan.
+## Ending yang dibahas
 
-### Bulan-bulan pertama — Selalu ada yang ingin ditaklukkan
-
-Yonas membagi kesehariannya antara pekerjaan dan latihan. Jalur baru memberinya alasan kembali, tetapi ada jalur yang belum selesai sebelum diganti. Ia mulai mengenal orang-orang di tempat latihan dan membayangkan kompetisi.
-
-### Pertengahan — Waktu terasa sempit
-
-Kemajuan tidak selalu cepat. Lembur menguras tenaga. Latihan, istirahat, pekerjaan, dan membuat konten bersaing memperebutkan waktu yang sama. Tantangan kecepatan memberi sasaran lain selain menyelesaikan jalur sulit.
-
-### Titik balik — Harus berhenti sementara
-
-Ada momen cedera yang membuat Yonas tidak dianjurkan climbing untuk sementara. Selama pemulihan, kehidupan tetap bergerak. Kesempatan karier di luar negeri juga dapat hadir. Detail pemicu, pemulihan, dan akibat pilihan belum disusun.
-
-### Tahun kedua — Menentukan arah
-
-Kompetisi menjadi tujuan penting, sementara konten, reputasi, dan karier membuka kemungkinan hidup lain. Detail adegan dan percabangannya masih perlu ditulis.
-
-## Tantangan yang diminta pengguna
-
-- Venue langganan mempunyai jalur V1–V15 dan mengganti jalur setiap bulan.
-- Yonas perlu menyelesaikan tantangan jalur untuk berkembang. Detail urutan dan syarat naik tingkat belum diputuskan.
-- Ada kelelahan akibat overtraining.
-- Ada kelelahan akibat bekerja hingga larut pada hari sebelumnya.
-- Ada tantangan berbatas waktu atau adu cepat mencapai puncak.
-- Ada cedera yang mengharuskan jeda climbing sementara.
-- Ada pilihan kehidupan, termasuk kesempatan karier ke luar negeri.
-
-Catatan: penomoran jalur di atas adalah konsep awal pengguna, belum menjadi janji pencapaian Yonas atau aturan olahraga yang sudah diverifikasi.
-
-## Pilihan penting
-
-- Latihan atau pekerjaan, termasuk kemungkinan meninggalkan pekerjaan.
-- Latihan atau rest day.
-- Latihan atau membuat konten.
-
-Pengguna menginginkan intensitas latihan berpengaruh pada posisi kompetisi. Ada usulan agar kualitas persiapan, istirahat, dan kondisi tubuh turut berpengaruh; hubungan pastinya belum dikunci.
-
-## Ending utama terkini
-
+- Juara kompetisi 1, 2, atau 3.
+- Bertanding tanpa podium.
+- Influencer.
 - Brand ambassador.
-- Juara kompetisi peringkat 1, 2, atau 3.
-- Bertanding tanpa mendapat podium.
 - Affiliator climbing.
-- Gagal sama sekali: arti dan perjalanan menuju ending ini belum didefinisikan.
+- Gagal sama sekali: makna dan syarat belum ditentukan.
 
-Belum diputuskan apakah ending prestasi dan karier dapat terjadi bersamaan. Syarat rinci untuk setiap ending juga belum diputuskan.
+Belum diputuskan apakah hasil kompetisi dan karier dapat bersamaan. Ending lama penjara, rumah sakit, dan pegawai negeri tidak otomatis diwajibkan lagi.
 
-Daftar awal pernah menyebut penjara, rumah sakit, influencer, dan pegawai negeri. Daftar ending terkini di atas menjadi acuan. Cedera masih ada sebagai bagian perjalanan; jangan otomatis mengembalikan seluruh ending lama.
+## Ending rahasia — Pindah Jalur
 
-## Ending rahasia yang disetujui — Pindah Jalur
-
-Saat Yonas hendak latihan, temannya menelepon dan menawarkan proyek: modal Rp50 juta, dijanjikan return Rp100 juta per bulan. Ini lelucon cerita, bukan penawaran investasi nyata.
-
-Pilihan:
-
-1. Tetap latihan: cerita climbing berlanjut.
-2. Menerima proyek: langsung menuju ending rahasia; Yonas meninggalkan ambisi climbing dan menjadi menteri.
-
-Adegan yang disetujui:
-
-Sore itu, Yonas sudah berganti pakaian latihan. Sepatunya baru terpasang sebelah ketika ponselnya berdering.
+Mini event: seorang teman menelepon menawarkan proyek dengan modal Rp50 juta, dijanjikan return Rp100 juta per bulan.
 
 “Yon, ada proyek. Modal lima puluh juta, balik seratus juta per bulan. Ikut nggak?”
 
-Di hadapannya, jalur yang belum berhasil dia selesaikan sejak minggu lalu masih menunggu.
+- Tetap latihan: cerita berlanjut.
+- Menerima: langsung menuju ending rahasia; Yonas meninggalkan ambisi climbing dan menjadi menteri.
 
-- “Nanti aja. Gue mau latihan.” Yonas menyimpan ponselnya dan kembali ke dinding panjat.
-- “Gue ikut. Ceritain.” Yonas melepas sepatu panjatnya.
+Yonas melepas sepatu panjat. Fade. Beberapa tahun kemudian ia mengenakan jas, mengucapkan sumpah dalam pelantikan menteri. Sepatu panjatnya tersimpan dalam kardus.
 
-Layar perlahan gelap. Beberapa tahun kemudian, kilatan kamera memenuhi ruangan pelantikan. Yonas mengenakan jas dan mengucapkan sumpah jabatan sebagai menteri. Sepatu panjatnya masih tersimpan dalam kardus di rumah.
-
-**ENDING — PINDAH JALUR**
-
-Lompatan beberapa tahun adalah epilog ending rahasia; rentang utama cerita tetap sementara dua tahun. Tidak perlu membuat rangkaian pekerjaan politik yang panjang untuk menjelaskan lelucon ini.
+Lompatan beberapa tahun merupakan epilog rahasia, bukan perubahan rentang satu tahun cerita utama. Penempatan telepon belum dikunci; bulan 11 pernah diusulkan.
