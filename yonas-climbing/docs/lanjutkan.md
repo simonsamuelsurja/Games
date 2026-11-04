@@ -17,7 +17,8 @@ Baca README, permainan.md, event-utama.md, dan bulan-01.md sebelum melanjutkan.
 - Indikator tersembunyi: Uang 50, Stamina 70, Kemampuan 0, Reputasi 0 sebagai nilai awal.
 - Uang, Stamina, Reputasi 0–100; Kemampuan tanpa batas maksimal. Uang tidak perlu rupiah.
 - Nilai dasar kegiatan: Kerja uang +15/stamina −15; Latihan uang −10/stamina −20/kemampuan +3; Istirahat stamina +35. Masih titik awal untuk diuji keseimbangannya.
-- Khusus bulan 1: Latihan kedua membuka mini event; Latihan ketiga menyelesaikan jalur utama.
+- Mini event terkait Latihan langsung terjadi pada pilihan Latihan pertama dalam bulan terkait; mini event terkait Kerja langsung terjadi pada pilihan Kerja pertama dalam bulan terkait. Muncul sekali, tidak menunggu pilihan kedua atau ketiga, dan tidak muncul jika kegiatan terkait tidak dipilih bulan itu.
+- Khusus bulan 1: Latihan pertama membuka mini event; Latihan ketiga menyelesaikan jalur utama. Aturan mini event ini menggantikan syarat lama Latihan kedua.
 - Izin mini event mencakup merekam DAN posting sosmed dengan tag. Tidak perlu izin posting terpisah untuk video yang sama.
 - Ending influencer, brand ambassador, affiliator, podium 1/2/3, tanpa podium, gagal, serta rahasia menteri tetap dibahas.
 
