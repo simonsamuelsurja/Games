@@ -27,7 +27,7 @@ Jangan membuat empat deskripsi panjang berbeda untuk pilihan yang sama. Variasi 
 
 ## Satu mini event bersyarat
 
-Muncul sekali, langsung pada pilihan Latihan pertama dalam bulan pertama. Jika pemain tidak memilih Latihan sama sekali pada bulan ini, mini event tidak muncul. Aturan ini menggantikan syarat lama yang menunggu Latihan kedua.
+Muncul sekali setelah pilihan Latihan kedua dalam bulan pertama. Penghitung Latihan hanya bulan ini; latihan dari bulan lain tidak dihitung untuk syarat ini. Jika pemain berlatih kurang dari dua kali, mini event tidak muncul.
 
 Dialog:
 
@@ -44,4 +44,4 @@ Keputusan ini berlangsung dalam minggu yang sama dan tidak menggantikan pilihan 
 
 Jalur venue berganti pada akhir bulan. Berhasil jika Latihan minimal tiga kali; selain itu target belum selesai. Kondisi Uang, Stamina, Kemampuan, dan Reputasi terbawa ke bulan berikutnya.
 
-Mini event pada Latihan pertama mengikuti aturan umum mini event terkait kegiatan. Syarat minimal tiga kali Latihan untuk menyelesaikan jalur adalah aturan khusus bulan pertama, bukan aturan otomatis semua bulan. Hubungan keberhasilan dengan cedera atau latihan yang kekurangan dana belum dibahas rinci; jangan menambahkan pengecualian diam-diam.
+Syarat dua dan tiga kali Latihan adalah aturan khusus bulan pertama, bukan aturan otomatis semua bulan. Hubungan keberhasilan dengan cedera atau latihan yang kekurangan dana belum dibahas rinci; jangan menambahkan pengecualian diam-diam.
