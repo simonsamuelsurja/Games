@@ -21,9 +21,17 @@ Baca README, permainan.md, event-utama.md, dan bulan-01.md sebelum melanjutkan.
 - Izin mini event mencakup merekam DAN posting sosmed dengan tag. Tidak perlu izin posting terpisah untuk video yang sama.
 - Ending influencer, brand ambassador, affiliator, podium 1/2/3, tanpa podium, gagal, serta rahasia menteri tetap dibahas.
 
+## Catatan sementara bulan 2 — Proyek kantor
+
+- Proyek selesai dan mendapat bonus tambahan jika memilih Kerja minimal 3 kali dalam bulan 2. Bonus di luar pendapatan dasar Kerja; besar bonus belum ditentukan.
+- Syarat 3 kali Kerja bersifat sementara untuk diuji keseimbangannya.
+- Saat perhitungan keseluruhan game sudah tersedia, periksa apakah menyelesaikan proyek bulan 2 dengan 3 kali Kerja masih memungkinkan Yonas menjadi juara 1 pada kompetisi utama akhir tahun, dengan mempertimbangkan waktu latihan, uang, stamina, dan kemampuan.
+- Jika syarat tersebut membuat juara 1 tidak mungkin dicapai, kembalikan syarat proyek menjadi minimal 2 kali Kerja.
+- Perhitungan akhir dan syarat juara 1 belum ditentukan; kemungkinan tersebut belum diuji.
+
 ## Yang perlu dilanjutkan
 
-1. Perincian bulan 2 dengan pola yang sama: event utama, empat pilihan rutin, dan mini event.
+1. Perincian lanjutan bulan 2 dengan pola yang sama: event utama, empat pilihan rutin, dan mini event.
 2. Pengaruh angka mini event pada reputasi dan indikator lain.
 3. Ambang kondisi dan dialog peringatan, aturan stamina habis, risiko cedera serta pemulihan.
 4. Kenaikan kemampuan saat uang tidak cukup.
