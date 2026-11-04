@@ -10,6 +10,8 @@ Status: brainstorming; belum ada aplikasi. Catatan ini menyimpan kesepakatan unt
 - [Aturan permainan dan indikator](docs/permainan.md).
 - [12 event utama](docs/event-utama.md).
 - [Bulan pertama dan syarat mini event](docs/bulan-01.md).
+- [Bulan kedua: proyek kantor dan teman baru](docs/bulan-02.md).
+- [Bulan ketiga: kompetisi venue dan video perkembangan](docs/bulan-03.md).
 - [Peta cerita dan tautan FigJam](docs/peta-cerita.md).
 - [Catatan kelanjutan](docs/lanjutkan.md).
 
@@ -26,4 +28,4 @@ Status: brainstorming; belum ada aplikasi. Catatan ini menyimpan kesepakatan unt
 
 [FigJam](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI/Perjalanan-Yonas)
 
-Dokumen Git ini mencakup keputusan setelah pembaruan FigJam terakhir, termasuk angka indikator, izin merekam sekaligus posting, dan syarat latihan bulan pertama.
+Dokumen Git ini mencakup keputusan setelah pembaruan FigJam terakhir, termasuk angka indikator, izin merekam sekaligus posting, detail bulan 1–3, syarat sementara proyek bulan 2, serta catatan pilihan berturut-turut. Waktu kemunculan mini event pada pilihan pertama atau setelah jumlah minimal kegiatan masih dipertimbangkan; syarat bulan 1 tetap berlaku sementara.

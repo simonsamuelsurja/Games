@@ -5,8 +5,8 @@ Judul dan urutan ini menjadi kerangka. Detail bulanan masih bisa dikembangkan. D
 | Bulan | Event utama | Gambaran | Perkiraan durasi |
 |---|---|---|---|
 | 1 | Jalur pertama yang ingin ditaklukkan | Yonas mengejar jalur yang selalu menahannya pada bagian yang sama sebelum diganti. Aturan terbaru: berhasil jika memilih Latihan minimal tiga kali bulan ini. | Latar empat minggu |
-| 2 | Proyek tambahan dari kantor | Proyek kantor menyita perhatian dan berbenturan dengan latihan. Judul kerangka tetap; bukan syarat tawaran kerja sampingan untuk memperoleh uang setiap minggu. | 2–3 minggu |
-| 3 | Kompetisi iseng di venue | Kompetisi kecil antar pengunjung, suasana akrab dan hadiah sederhana. Pengalaman pertandingan pertama setelah dua bulan mengenal climbing. | 2–3 minggu rangkaian; lomba satu hari |
+| 2 | Proyek tambahan dari kantor | Minimal 3 kali Kerja bulan ini menyelesaikan proyek dan memberi bonus tambahan. Syarat sementara: kembali ke 2 kali jika perhitungan akhir membuat juara 1 mustahil. Mini event saat Latihan: bertemu sesama pemula. Lihat [bulan 2](bulan-02.md). | 2–3 minggu |
+| 3 | Kompetisi iseng di venue | Pilihan Ikut lomba / Jadi penonton dulu. Peserta membayar pendaftaran; menang mendapat uang juara dan kenaikan kemampuan besar, kalah tetap mendapat kemampuan. Penonton mendapat sedikit kemampuan tanpa biaya/hadiah. Mini event saat Latihan: video progres menuju influencer. Lihat [bulan 3](bulan-03.md). | 2–3 minggu rangkaian; lomba satu hari |
 | 4 | Video pertama yang ramai | Rekaman yang diizinkan tayang menarik perhatian dan pertanyaan. Perkembangannya mengikuti izin dan keadaan; tidak otomatis viral untuk semua pemain. | 1–2 minggu |
 | 5 | Teman mengajak persiapan kompetisi | Latihan bersama, dukungan, dan perbedaan kemajuan menguji hubungan. Persiapan dapat menuju kompetisi utama akhir tahun. | 2–3 minggu |
 | 6 | Latihan bersama pelatih tamu | Venue mendatangkan pelatih; kondisi Yonas menentukan cara memanfaatkan sesi. Menggantikan rencana lama cedera wajib bulan keenam. | 1–2 minggu |
@@ -24,12 +24,15 @@ Rentang di atas estimasi awal, bukan kalender rinci yang sudah final. Event dapa
 Konten bukan pilihan rutin keempat. Memilih Latihan membuka kesempatan; respons terhadap kesempatan membentuk jalan influencer.
 
 1. Teman merekam dan posting: izin menggabungkan rekaman dan unggahan, bukan diam-diam memposting. Bulan pertama: syarat Latihan minimal dua kali.
-2. Komentar pertama: penonton bertanya atau merasa dekat; ada kesempatan menanggapi.
-3. Permintaan kelanjutan: orang ingin mengikuti perkembangan latihan berikutnya.
-4. Dikenali di venue: kejadian langsung jika reputasi cukup.
-5. Ajakan video bersama: kolaborasi dengan pemanjat lain membawa komitmen waktu.
-6. Unggahan mengecewakan: respons terhadap sepi penonton atau komentar buruk memengaruhi kelanjutan berbagi.
-7. Kisahnya ditampilkan: komunitas ingin mengangkat perjalanan manager yang mengejar mimpi atlet.
+2. Video perkembangan tiga bulan: mini event bulan 3 saat Latihan; setuju membuat dan memposting video menambah reputasi. Waktu kemunculan belum diputuskan.
+3. Komentar pertama: penonton bertanya atau merasa dekat; ada kesempatan menanggapi.
+4. Permintaan kelanjutan: orang ingin mengikuti perkembangan latihan berikutnya.
+5. Dikenali di venue: kejadian langsung jika reputasi cukup.
+6. Ajakan video bersama: kolaborasi dengan pemanjat lain membawa komitmen waktu.
+7. Unggahan mengecewakan: respons terhadap sepi penonton atau komentar buruk memengaruhi kelanjutan berbagi.
+8. Kisahnya ditampilkan: komunitas ingin mengangkat perjalanan manager yang mengejar mimpi atlet.
+
+Daftar di atas adalah kesempatan yang dapat dikembangkan, bukan urutan wajib. Untuk mini event terkait Latihan atau Kerja, waktu muncul pada pilihan pertama atau setelah jumlah minimal kegiatan masih dipertimbangkan. Syarat Latihan kedua bulan 1 tetap berlaku sementara.
 
 Bekal cerita: bersedia tampil, melanjutkan konten beberapa kali, membangun hubungan penonton, dan reputasi cukup. Tidak wajib melalui semuanya. Menolak satu kesempatan tidak otomatis menutup jalan selamanya.
 

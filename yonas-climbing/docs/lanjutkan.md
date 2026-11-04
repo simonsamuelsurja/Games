@@ -1,6 +1,6 @@
 # Lanjutkan di perangkat lain
 
-Baca README, permainan.md, event-utama.md, dan bulan-01.md sebelum melanjutkan.
+Baca README, permainan.md, event-utama.md, serta bulan-01.md, bulan-02.md, dan bulan-03.md sebelum melanjutkan.
 
 ## Kesepakatan terbaru
 
@@ -29,6 +29,14 @@ Baca README, permainan.md, event-utama.md, dan bulan-01.md sebelum melanjutkan.
 - Jika syarat tersebut membuat juara 1 tidak mungkin dicapai, kembalikan syarat proyek menjadi minimal 2 kali Kerja.
 - Perhitungan akhir dan syarat juara 1 belum ditentukan; kemungkinan tersebut belum diuji.
 
+## Bulan 2 dan 3 yang sudah disepakati
+
+- Detail bulan 2 tersimpan di [bulan-02.md](bulan-02.md): proyek kantor, syarat sementara 3 kali Kerja, bonus tambahan, dan mini event bertemu sesama pemula saat Latihan.
+- Detail bulan 3 tersimpan di [bulan-03.md](bulan-03.md): ikut lomba membayar pendaftaran; menang mendapat uang juara dan kenaikan kemampuan besar; kalah tetap mendapat kenaikan kemampuan tanpa hadiah; penonton mendapat sedikit kemampuan tanpa biaya/hadiah.
+- Mini event bulan 3 saat Latihan: ajakan membuat dan memposting video perkembangan tiga bulan, menambah reputasi dan membuka jalan influencer. Menggantikan usulan bantuan membaca jalur.
+- Kenaikan kemampuan kompetisi/menonton di luar hasil Latihan rutin. Besar angka belum ditentukan.
+- Keputusan ini mengunci arah cerita dan pengaruh pilihan. Waktu kemunculan mini event serta hal lain yang ditandai terbuka tetap belum diputuskan.
+
 ## Pengingat — Pilihan berturut-turut
 
 Perlu dibahas apa yang terjadi jika pemain memilih Kerja, Latihan, atau Istirahat berturut-turut. Belum ada akibat atau aturan tambahan yang ditetapkan.
@@ -40,14 +48,14 @@ Perlu dibahas apa yang terjadi jika pemain memilih Kerja, Latihan, atau Istiraha
 
 ## Masih dipertimbangkan — Waktu kemunculan mini event
 
-- Mini event gắn với Latihan hoặc Kerja có hai cách xuất hiện đang được cân nhắc: ngay lần đầu chọn hoạt động đó trong tháng, hoặc sau khi chọn đủ số lần tối thiểu.
-- Chưa quyết định cách nào; chưa ấn định số lần tối thiểu theo quy tắc chung.
-- Chưa thay thế các điều kiện đã ghi ở từng tháng. Với tháng 1, tạm giữ mini event sau Latihan thứ hai cho đến khi chốt lại.
+- Mini event terkait Latihan atau Kerja memiliki dua opsi kemunculan: langsung pada pilihan pertama kegiatan itu dalam bulan terkait, atau setelah jumlah minimal pilihan kegiatan tersebut.
+- Belum diputuskan opsi mana yang dipakai; jumlah minimal secara umum juga belum ditentukan.
+- Belum mengganti syarat yang sudah ditulis untuk tiap bulan. Untuk bulan 1, sementara tetap setelah Latihan kedua sampai ada keputusan baru.
 
 ## Yang perlu dilanjutkan
 
-1. Perincian lanjutan bulan 2 dengan pola yang sama: event utama, empat pilihan rutin, dan mini event.
-2. Pengaruh angka mini event pada reputasi dan indikator lain.
+1. Lanjutkan pembahasan bulan 4 berdasarkan kerangka event utama; detail bulan 2 dan 3 sudah disimpan.
+2. Besar bonus proyek, biaya pendaftaran, uang juara, tambahan kemampuan kompetisi/menonton, reputasi mini event, serta aturan menang/kalah dan pendaftaran saat uang tidak cukup.
 3. Ambang kondisi dan dialog peringatan, aturan stamina habis, risiko cedera serta pemulihan.
 4. Kenaikan kemampuan saat uang tidak cukup.
 5. Syarat ending kompetisi, influencer, brand ambassador, affiliator, serta arti gagal.

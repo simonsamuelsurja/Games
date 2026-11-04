@@ -6,7 +6,7 @@ Peta merangkum kesepakatan, bukan semua percabangan final. Garis putus-putus men
 
 Bagian papan: [panduan rutin](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=9-148), [12 event utama](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=12-148), [bulan pertama](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=12-188), [influencer](https://www.figma.com/board/gVs4wVijce1YfwekofJmMI?node-id=12-208).
 
-Catatan sinkronisasi: Git ini memuat keputusan setelah edit FigJam terakhir. Papan masih perlu diselaraskan untuk istilah Stamina, angka indikator, Kemampuan tanpa batas, syarat Latihan 2/3 kali bulan pertama, dan izin rekam sekaligus posting.
+Catatan sinkronisasi: Git ini memuat keputusan setelah edit FigJam terakhir. Papan masih perlu diselaraskan untuk istilah Stamina, angka indikator, Kemampuan tanpa batas, syarat Latihan 2/3 kali bulan pertama, izin rekam sekaligus posting, serta detail bulan 2 dan 3 di dokumen Git. Waktu kemunculan mini event masih belum diputuskan: pilihan pertama atau setelah jumlah minimal kegiatan; syarat bulan 1 tetap berlaku sementara.
 
 ```mermaid
 flowchart TD
