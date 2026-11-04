@@ -17,8 +17,7 @@ Baca README, permainan.md, event-utama.md, dan bulan-01.md sebelum melanjutkan.
 - Indikator tersembunyi: Uang 50, Stamina 70, Kemampuan 0, Reputasi 0 sebagai nilai awal.
 - Uang, Stamina, Reputasi 0–100; Kemampuan tanpa batas maksimal. Uang tidak perlu rupiah.
 - Nilai dasar kegiatan: Kerja uang +15/stamina −15; Latihan uang −10/stamina −20/kemampuan +3; Istirahat stamina +35. Masih titik awal untuk diuji keseimbangannya.
-- Mini event terkait Latihan langsung terjadi pada pilihan Latihan pertama dalam bulan terkait; mini event terkait Kerja langsung terjadi pada pilihan Kerja pertama dalam bulan terkait. Muncul sekali, tidak menunggu pilihan kedua atau ketiga, dan tidak muncul jika kegiatan terkait tidak dipilih bulan itu.
-- Khusus bulan 1: Latihan pertama membuka mini event; Latihan ketiga menyelesaikan jalur utama. Aturan mini event ini menggantikan syarat lama Latihan kedua.
+- Khusus bulan 1: Latihan kedua membuka mini event; Latihan ketiga menyelesaikan jalur utama.
 - Izin mini event mencakup merekam DAN posting sosmed dengan tag. Tidak perlu izin posting terpisah untuk video yang sama.
 - Ending influencer, brand ambassador, affiliator, podium 1/2/3, tanpa podium, gagal, serta rahasia menteri tetap dibahas.
 
@@ -38,6 +37,12 @@ Perlu dibahas apa yang terjadi jika pemain memilih Kerja, Latihan, atau Istiraha
 - Tentukan apakah ada akibat khusus dari pilihan berulang selain efek dasar kegiatan, kapan akibat itu muncul, serta bagaimana menyampaikannya kepada pemain.
 - Periksa juga rentetan pilihan yang melewati pergantian bulan dan kondisi ketika stamina atau uang habis, atau stamina sudah penuh.
 - Masukkan pola pilihan berturut-turut ke evaluasi keseimbangan game, termasuk syarat proyek bulan 2 dan peluang mencapai juara 1.
+
+## Masih dipertimbangkan — Waktu kemunculan mini event
+
+- Mini event gắn với Latihan hoặc Kerja có hai cách xuất hiện đang được cân nhắc: ngay lần đầu chọn hoạt động đó trong tháng, hoặc sau khi chọn đủ số lần tối thiểu.
+- Chưa quyết định cách nào; chưa ấn định số lần tối thiểu theo quy tắc chung.
+- Chưa thay thế các điều kiện đã ghi ở từng tháng. Với tháng 1, tạm giữ mini event sau Latihan thứ hai cho đến khi chốt lại.
 
 ## Yang perlu dilanjutkan
 
