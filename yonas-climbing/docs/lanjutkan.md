@@ -29,6 +29,15 @@ Baca README, permainan.md, event-utama.md, dan bulan-01.md sebelum melanjutkan.
 - Jika syarat tersebut membuat juara 1 tidak mungkin dicapai, kembalikan syarat proyek menjadi minimal 2 kali Kerja.
 - Perhitungan akhir dan syarat juara 1 belum ditentukan; kemungkinan tersebut belum diuji.
 
+## Pengingat — Pilihan berturut-turut
+
+Perlu dibahas apa yang terjadi jika pemain memilih Kerja, Latihan, atau Istirahat berturut-turut. Belum ada akibat atau aturan tambahan yang ditetapkan.
+
+- Pertimbangkan dampaknya pada cerita, uang, stamina, kemampuan, dan kesempatan event.
+- Tentukan apakah ada akibat khusus dari pilihan berulang selain efek dasar kegiatan, kapan akibat itu muncul, serta bagaimana menyampaikannya kepada pemain.
+- Periksa juga rentetan pilihan yang melewati pergantian bulan dan kondisi ketika stamina atau uang habis, atau stamina sudah penuh.
+- Masukkan pola pilihan berturut-turut ke evaluasi keseimbangan game, termasuk syarat proyek bulan 2 dan peluang mencapai juara 1.
+
 ## Yang perlu dilanjutkan
 
 1. Perincian lanjutan bulan 2 dengan pola yang sama: event utama, empat pilihan rutin, dan mini event.
