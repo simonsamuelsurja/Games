@@ -2,7 +2,16 @@
 
 Game web berpilihan tentang Yonas, seorang manager full-time yang mencoba climbing, jatuh cinta pada olahraga tersebut, lalu ingin menjadi atlet profesional.
 
-Status: brainstorming; belum ada aplikasi. Catatan ini menyimpan kesepakatan untuk dilanjutkan di perangkat lain.
+Status: bulan pertama sudah bisa dimainkan. Repository ini menyimpan kode game, gambar, naskah revisi, dan catatan cerita untuk dilanjutkan di perangkat lain.
+
+[Mainkan bulan pertama](https://yonas-bulan-satu.rustymatch1.chatgpt.site/).
+
+## Game dan naskah
+
+- [Kode game dan cara menjalankannya](game/README.md).
+- [Naskah lengkap bulan pertama — Revisi 1](naskah/README.md), termasuk tautan Google Docs dan salinan Word/PDF. Revisi ini disiapkan untuk ditinjau sebelum diterapkan ke game.
+
+Catatan brainstorming sebelumnya tetap tersimpan di folder `docs/`.
 
 ## Mulai membaca
 
@@ -17,7 +26,7 @@ Status: brainstorming; belum ada aplikasi. Catatan ini menyimpan kesepakatan unt
 
 ## Dasar yang disepakati
 
-- Satu tahun: 12 bulan × 4 minggu = 48 pilihan utama; intro di luar hitungan.
+- Kalender cerita satu tahun: 12 bulan × 4 minggu. Bulan 1–11 menjalankan perjalanan; bulan 12 langsung menentukan hasil kompetisi. Intro di luar hitungan pilihan mingguan.
 - Tiga pilihan rutin dengan kata-kata tetap: Kerja, Latihan, Istirahat.
 - Setiap bulan memiliki event utama dan sekitar minimal satu kesempatan mini event, dengan kemunculan bersyarat.
 - Mini event bisa meminta keputusan tambahan atau langsung terjadi pada minggu yang sama.

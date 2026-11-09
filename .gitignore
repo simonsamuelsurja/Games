@@ -1,0 +1,11 @@
+# Hasil pemeriksaan lokal dan pratinjau dokumen
+yonas-climbing/naskah/qa/
+yonas-climbing/naskah/pratinjau-google-docs.png
+
+# Dependensi, hasil sementara, dan pengaturan pribadi
+node_modules/
+artifacts/
+.env
+.env.*
+!.env.example
+*.tar.gz

@@ -1,0 +1,14 @@
+{
+  "name": "yonas-bulan-satu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bulan pertama game komik interaktif Yonas — Satu Pegangan Lagi",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "node --test tests/engine.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

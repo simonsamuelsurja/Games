@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f3f1e9">
+  <meta name="description" content="Satu pegangan lagi. Mainkan bulan pertama perjalanan Yonas dalam komik interaktif tentang pekerjaan, istirahat, dan mimpi menjadi atlet climbing.">
+  <title>YONAS — Satu Pegangan Lagi</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="assets/gym.webp" as="image">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="paper-grain" aria-hidden="true"></div>
+  <header class="masthead">
+    <a class="brand" href="#" aria-label="Yonas, halaman awal"><span class="brand-symbol">Y<span>↗</span></span><span>YONAS<span class="brand-sub">SEBUAH CERITA CLIMBING</span></span></a>
+    <div class="chapter-label"><span class="orange-dot"></span> BAB 01 <span class="slash">/</span> SEBUAH PERMULAAN</div>
+    <nav aria-label="Kontrol permainan"><button id="sound-toggle" class="icon-button" aria-label="Aktifkan suara" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Zm5 4 5 6m0-6-5 6"/></svg></button><button id="menu-toggle" class="menu-toggle" aria-label="Buka menu" aria-expanded="false"><span>MENU</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button></nav>
+  </header>
+  <main>
+    <section id="stage" class="stage cover" aria-label="Adegan cerita">
+      <img id="scene-art" class="scene-art" data-scene="gym" src="assets/gym.webp" alt="Yonas dan temannya memasuki venue bouldering dengan jalur pegangan oranye" fetchpriority="high">
+      <div class="scene-shade" aria-hidden="true"></div>
+      <div class="scene-topline"><span id="scene-location">VENUE CLIMBING / KUNJUNGAN PERTAMA</span><span class="edition">01 — 04</span></div>
+      <div id="cover-content" class="cover-content">
+        <div class="eyebrow"><span></span> SEMUA BERAWAL DARI COBA-COBA.</div>
+        <h1>SATU<br>PEGANGAN<br><span>LAGI<span class="title-dot">.</span></span></h1>
+        <p>Kerjaan besok masih ada.<br>Tapi jalur ini belum selesai.</p>
+        <button id="start-button" class="primary-button">MULAI CERITA <span>↗</span></button>
+        <button id="resume-button" class="resume-button" hidden>LANJUTKAN PERJALANAN <span>→</span></button>
+      </div>
+      <div id="cover-stamp" class="cover-stamp" aria-hidden="true"><span>BULAN</span><strong>01</strong><span>JALUR PERTAMA</span></div>
+      <section id="name-panel" class="name-panel" aria-labelledby="name-heading" hidden><span class="eyebrow">SEBELUM PEGANGAN PERTAMA.</span><h2 id="name-heading">INI CERITA<br><span>MILIKMU.</span></h2><form id="name-form"><label for="player-name">NAMA KARAKTERMU</label><input id="player-name" name="playerName" type="text" value="Yonas" maxlength="24" autocomplete="nickname" spellcheck="false" required><p>Nama ini akan dipakai sepanjang perjalananmu.</p><button class="primary-button" type="submit">MASUK KE CERITA <span>↗</span></button></form></section>
+      <button id="dialogue-next" class="dialogue-layer" hidden aria-label="Lanjutkan dialog">
+        <div class="dialogue-wrap"><span id="speaker" class="speaker">YONAS</span><div id="bubble" class="speech-bubble"><p id="dialogue-text"></p><span class="dialogue-cue" aria-hidden="true">↘</span></div><span class="dialogue-hint">KLIK UNTUK LANJUT <span>SPACE ↵</span></span></div>
+      </button>
+      <section id="choice-panel" class="choice-panel" aria-labelledby="choice-heading" hidden>
+        <div class="choice-top"><span id="week-tag">MINGGU 01 / 04</span><span class="choice-side">SATU MINGGU. SATU PILIHAN.</span></div>
+        <h2 id="choice-heading">MINGGU INI, MAU APA?</h2><p id="condition-text" class="condition-text"></p>
+        <div class="choices">
+          <button data-action="work" class="choice-card"><span class="choice-number">01</span><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 17h34v23H7zM17 17V9h14v8M7 26h34M21 26v6h6v-6"/></svg><strong>KERJA</strong><span>Mendapat uang,<br>mengurangi stamina.</span><i>↗</i></button>
+          <button data-action="train" class="choice-card"><span class="choice-number">02</span><svg viewBox="0 0 48 48" aria-hidden="true"><path d="m8 39 8-12 7 6 6-14 11-9M14 9l4 4m15 23 5 4M9 20l-4 3"/><circle cx="26" cy="10" r="4"/><path d="m19 20 6-5 8 5-5 9"/></svg><strong>LATIHAN</strong><span>Menggunakan uang dan stamina,<br>meningkatkan kemampuan panjat.</span><i>↗</i></button>
+          <button data-action="rest" class="choice-card"><span class="choice-number">03</span><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M8 30h32v12H8zM6 24v18m36-18v18M16 12h9l-9 10h9M30 6h7l-7 8h7"/></svg><strong>ISTIRAHAT</strong><span>Memulihkan<br>stamina.</span><i>↗</i></button>
+        </div>
+      </section>
+      <section id="record-panel" class="record-panel" aria-labelledby="record-heading" hidden><span class="eyebrow">SEBUAH PERTEMUAN KECIL</span><h2 id="record-heading">“GUE REKAM,<br>YA?”</h2><p>“Gue rekam terus posting di sosmed sambil tag lo, ya? Sekalian nanti lo bisa lihat gerakan lo sendiri.”</p><div class="record-choices"><button id="allow-record" class="primary-button">BOLEH, POSTING AJA <span>↗</span></button><button id="deny-record" class="secondary-button">NGGAK DULU, YA.</button></div></section>
+      <section id="ending-panel" class="ending-panel" aria-labelledby="ending-heading" hidden><span class="eyebrow">BULAN PERTAMA / SELESAI</span><h2 id="ending-heading"></h2><p id="ending-copy"></p><div id="journey-strip" class="journey-strip"></div><p id="ending-note" class="ending-note"></p><div class="ending-actions"><button id="replay-button" class="primary-button">MAIN LAGI <span>↗</span></button><button id="export-button" class="secondary-button">SIMPAN PERJALANAN ↓</button></div><span class="next-chapter">AKHIR BAB 01 — CERITA BULAN 2 BELUM TERSEDIA.</span></section>
+      <div class="corner corner-tl" aria-hidden="true"></div><div class="corner corner-br" aria-hidden="true"></div>
+    </section>
+    <footer class="chapter-footer"><div><span class="footer-caption" id="footer-caption">CERITA INTERAKTIF</span><strong id="footer-title">JALUR PERTAMA YANG INGIN DITAKLUKKAN.</strong></div><div class="week-progress" id="week-progress" aria-label="Empat minggu bulan pertama"><span data-week="1"></span><span data-week="2"></span><span data-week="3"></span><span data-week="4"></span><b id="week-counter">BULAN 01</b></div><span class="footer-edition">BACA. PILIH. LANJUTKAN. <span>↗</span></span></footer>
+  </main>
+  <dialog id="menu-dialog" aria-labelledby="menu-heading"><div class="modal-heading"><h2 id="menu-heading">JEDA SEBENTAR.</h2><button id="close-menu" class="icon-button" aria-label="Tutup menu">✕</button></div><button id="continue-menu" class="menu-row">Kembali ke cerita <span>↗</span></button><button id="history-menu" class="menu-row">Lihat perjalanan <span>↗</span></button><button id="restart-menu" class="menu-row">Mulai bab dari awal <span>↺</span></button><p>Progres tersimpan di browser ini.<br>Satu bab. Empat minggu. Cerita milikmu.</p></dialog>
+  <dialog id="history-dialog" aria-labelledby="history-heading"><div class="modal-heading"><h2 id="history-heading">PERJALANANMU.</h2><button id="close-history" class="icon-button" aria-label="Tutup perjalanan">✕</button></div><div id="history-content"></div></dialog>
+  <dialog id="restart-dialog" aria-labelledby="restart-heading"><div class="modal-heading"><h2 id="restart-heading">MULAI LAGI?</h2></div><p>Perjalanan bab ini akan dimulai dari kunjungan pertama Yonas.</p><div class="record-choices"><button id="confirm-restart" class="primary-button">YA, MULAI LAGI ↺</button><button id="cancel-restart" class="secondary-button">KEMBALI</button></div></dialog>
+  <div id="live-status" class="sr-only" aria-live="polite"></div>
+  <noscript><p class="noscript-message">Aktifkan JavaScript di browser untuk memainkan cerita ini.</p></noscript>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
